@@ -1,2 +1,3 @@
 hello,myGit
-精简成无重复版本的txt
+精简成无重复版本的txt  master test
+这是master修改版本
