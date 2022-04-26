@@ -1,2 +1,3 @@
 hello,myGit
-精简成无重复版本的txt
+精简成无重复版本的txt hot-fix test
+这是热修的版本
