@@ -1,3 +1,4 @@
 hello,myGit
 精简成无重复版本的txt  master test
-这是master修改版本
+精简成无重复版本的txt hot-fix test
+这是最终的版本
