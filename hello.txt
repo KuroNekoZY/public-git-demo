@@ -1,12 +1,2 @@
 hello,myGit
-hello,myGit
-hello,myGit
-hello,myGit
-hello,myGit
-hello,myGit
-hello,myGit
-hello,myGit
-hello,myGit
-我的天啊这改过了吧
-my catcat
-your dog dog
+精简成无重复版本的txt
